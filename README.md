@@ -14,7 +14,7 @@ Este projeto simula um sistema de controle de ordens de serviço de uma oficina 
 
 ## Modelo Conceitual
 
-(Adicione o diagrama aqui futuramente)
+![Diagrama conceitual](./imagem%20do%20diagrama)
 
 ## Feito por
 
